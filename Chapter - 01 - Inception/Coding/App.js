@@ -14,9 +14,16 @@ root.appendChild(heading);
 </div>
 */
 
-const parent = React.createElement("div", { id: "parent" }, [React.createElement("div", { id: "child" }, [React.createElement("h1", {}, "I'am H1 Tag"), React.createElement("h2", {}, "I'am H2 Tag")]), React.createElement("div", { id: "child" }, [React.createElement("h1", {}, "I'am H1 Tag"), React.createElement("h2", {}, "I'am H2 Tag")])])
-
-
+const parent = React.createElement("div", { id: "parent" }, [
+  React.createElement("div", { id: "child" }, [
+    React.createElement("h1", {}, "I'am H1 Tag"),
+    React.createElement("h2", {}, "I'am H2 Tag"),
+  ]),
+  React.createElement("div", { id: "child" }, [
+    React.createElement("h1", {}, "I'am H1 Tag"),
+    React.createElement("h2", {}, "I'am H2 Tag"),
+  ]),
+]);
 
 // create root using createRoot
 const root1 = ReactDOM.createRoot(document.getElementById("root"));
