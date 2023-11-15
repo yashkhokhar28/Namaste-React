@@ -20,3 +20,10 @@
 - 📖 [Theory Assignment Solution](/Chapter%2003%20-%20Laying%20the%20Foundation/Theory/Solution3.md)
 - 📘 [Coding Assignment](/Chapter%2003%20-%20Laying%20the%20Foundation/Coding/Assignment3.md)
 - 💻 [Coding Assignment Solution](/Chapter%2003%20-%20Laying%20the%20Foundation/Coding/)
+
+## 📚 [Chapter 04 - Talk is cheap, show me the code!](/Chapter%2004%20-%20Talk%20is%20cheap,%20show%20me%20the%20code!/)
+
+- 📘 [Theory Assignment](/Chapter%2004%20-%20Talk%20is%20cheap,%20show%20me%20the%20code!/Theory/Assignment4.md)
+- 📖 [Theory Assignment Solution](/Chapter%2004%20-%20Talk%20is%20cheap,%20show%20me%20the%20code!/Theory/Solution4.md)
+- 📘 [Coding Assignment](/Chapter%2004%20-%20Talk%20is%20cheap,%20show%20me%20the%20code!/Coding/Assignment4.md)
+- 💻 [Coding Assignment Solution](/Chapter%2004%20-%20Talk%20is%20cheap,%20show%20me%20the%20code!/Coding/)
