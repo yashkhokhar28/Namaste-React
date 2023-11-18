@@ -2,7 +2,7 @@
 *{
     margin: 0;
     padding: 0;
-    /* overflow-x: hidden; */
+    font-family: 'Open Sans', sans-serif;
 }
 
 /* Header CSS */
@@ -10,22 +10,18 @@
     display: flex;
     justify-content: space-between;
     margin: 10px;
-    width: auto;
-    background-color: rgb(1, 163, 144);
     border-radius: 5px;
-    box-shadow: -1px 4px 20px 14px rgba(0, 0, 0, 0.2);
-    color: black;
     font-weight: bold;
 }
 
 
 .logo{
-    padding-left: 10px;
     width: 100px;
+    height: 100%;
 }
 
 .nav-items{   
-    padding: 0 10px 0;
+    padding: 10px;
     width: auto;
 }
 
@@ -35,7 +31,7 @@
 }
 
 .nav-items > ul > li{
-    padding: 40px 10px 0 0;
+    padding: 40px 40px 0 0;
     font-size: large;
     cursor: pointer;
 }
@@ -47,17 +43,15 @@
     width: auto;
     display: flex;
     flex-wrap: wrap;
-    justify-content:center;
+    justify-content:space-between;
 }
 
 .card{
-    width: 200px;
-    height: 300px;
-    border-radius: 5px;
-    box-shadow: -1px 4px 20px 14px rgba(0, 0, 0, 0.2);
     padding: 10px;
+    width: 250px;
     margin: 20px;
     cursor: pointer;
+    text-align: center;
 }
 
 .card > img{
@@ -66,15 +60,12 @@
 }
 
 .card > span{
+    margin: 10px;
     display: flex;
     justify-content: space-evenly;
 }
 
-.card > span > h4{
-    text-align: center;
-}
-
-.card > span > h4:first-child{
+.card > span > h6:first-child{
     display: flex;
     align-items: center;
     background-color: rgb(19, 176, 1);
@@ -83,7 +74,7 @@
     color: white;
 }
 
-.card > span > h4:first-child .bi-star-fill{
+.card > span > h6:first-child .bi-star-fill{
     font-size: small;
     padding: 0 5px 3px 0;
 }
@@ -95,23 +86,11 @@
     margin: 10px;
     width: auto;
     text-align: center;
-    background-color: rgb(1, 163, 144);
     padding: 20px 10px 20px;
-    border-radius: 5px;
-    box-shadow: -1px 4px 20px 14px rgba(0, 0, 0, 0.2);
-}
-
-.footer > i{
-    padding: 0 5px 0;
-    font-size: smaller;
-}
-
-.fa-heart{
-    color: darkred;
 }
 
 .footer > strong{
-    padding-left: 5px;
+    padding: 5px;
 }
 
 .footer > strong > span{

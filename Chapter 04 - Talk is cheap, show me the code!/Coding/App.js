@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import myLogo from "./Images/Food Fire Logo.png";
+import myLogo from "./Images/1.png";
 /* My Food App structure will look like this, 
             1) Header
                 - Logo
@@ -1883,16 +1883,16 @@ const ReastaurantCard = (props) => {
         }
       />
       <h4>{name}</h4>
-      <h4>{cuisines.join(", ")}</h4>
-      <h4>{area}</h4>
+      <h5>{cuisines.join(", ")}</h5>
+      <h5>{area}</h5>
       <span>
-        <h4>
+        <h6>
           <i class="bi bi-star-fill"></i>
           {avgRating}
-        </h4>
-        <h4>{lastMileTravelString}</h4>
-        <h4>{costForTwoString}</h4>
+        </h6>
+        <h6>{lastMileTravelString}</h6>
       </span>
+      <h5>{costForTwoString}</h5>
     </div>
   );
 };
@@ -1913,14 +1913,10 @@ const Body = () => {
 const Footer = () => {
   return (
     <div className="footer">
-      Created By
-      <i class="bi bi-heart-fill"></i>
-      <a href="https://www.linkedin.com/in/yashkhokhar28/" target="_blank">
-        Yash Khokhar
-      </a>
+      &copy;
       <i class="bi bi-c-circle"></i>2023
       <strong>
-        Food<span>Fire</span>
+        Food<span>Adda</span>
       </strong>
     </div>
   );
