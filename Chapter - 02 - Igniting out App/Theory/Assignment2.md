@@ -1,8 +1,9 @@
 ## Namaste React Course by Akshay Saini 🚀
+
 # Chapter 02 - Igniting our App
 
-
 ## Theory Assignment:
+
 - What is `NPM`?
 - What is `Parcel/Webpack`? Why `do we need it`?
 - What is `.parcel-cache`
@@ -11,7 +12,7 @@
 - What is `Tree Shaking`?
 - What is `Hot Module Replacement`?
 - List down your `favorite 5 superpowers of Parcel` and `describe any 3` of them in your
-own words.
+  own words.
 - What is `.gitignore`? What should `we add` and `not add` into it?
 - What is the `difference` between `package.json` and `package-lock.json`
 - Why should I not modify `package-lock.json`?

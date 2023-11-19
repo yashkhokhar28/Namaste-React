@@ -1,8 +1,9 @@
 ## Namaste React Course by Akshay Saini 🚀
+
 # Chapter 01 - Inception
 
-
 ## Theory -
+
 - `What is Emmet`?
 - Difference between a `Library and Framework`?
 - What is `CDN`? Why do we `use` it?
