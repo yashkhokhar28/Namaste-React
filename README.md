@@ -35,7 +35,7 @@
 - 📘 [Coding Assignment](/Chapter%20-%2005%20-%20Let's%20get%20Hooked!/Coding/Assignment5.md)
 - 💻 [Coding Assignment Solution](/Chapter%20-%2005%20-%20Let's%20get%20Hooked!/Coding/)
 
-## 📚 [Chapter 06 - Talk is cheap, show me the code!](/Chapter%20-%2006%20-%20Exploring%20the%20world/)
+## 📚 [Chapter 06 - Exploring the world](/Chapter%20-%2006%20-%20Exploring%20the%20world/)
 
 - 📘 [Theory Assignment](/Chapter%20-%2006%20-%20Exploring%20the%20world/Theory/Assignment6.md)
 - 📖 [Theory Assignment Solution](/Chapter%20-%2006%20-%20Exploring%20the%20world/Theory/Solution6.md)
