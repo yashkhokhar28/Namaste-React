@@ -41,3 +41,17 @@
 - 📖 [Theory Assignment Solution](/Chapter%20-%2006%20-%20Exploring%20the%20world/Theory/Solution6.md)
 - 📘 [Coding Assignment](/Chapter%20-%2006%20-%20Exploring%20the%20world/Coding/Assignment6.md)
 - 💻 [Coding Assignment Solution](/Chapter%20-%2006%20-%20Exploring%20the%20world/Coding/)
+
+## 📚 [Chapter 07 - Finding the path](/Chapter%20-%2007%20-%20Finding%20the%20path/)
+
+- 📘 [Theory Assignment](./Chapter%20-%2007%20-%20Finding%20the%20path/Theory/Assignment7.md)
+- 📖 [Theory Assignment Solution](./Chapter%20-%2007%20-%20Finding%20the%20path/Theory/Solution7.md)
+- 📘 [Coding Assignment](./Chapter%20-%2007%20-%20Finding%20the%20path/Coding/Assignment7.md)
+- 💻 [Coding Assignment Solution](./Chapter%20-%2007%20-%20Finding%20the%20path/Coding/)
+
+## 📚 [Chapter 08 - Let's get Classy](/Chapter%20-%2008%20-%20Let's%20get%20Classy/)
+
+- 📘 [Theory Assignment](./Chapter%20-%2008%20-%20Let's%20get%20Classy/Theory/Assignment8.md)
+- 📖 [Theory Assignment Solution](./Chapter%20-%2008%20-%20Let's%20get%20Classy/Theory/Solution8.md)
+- 📘 [Coding Assignment](./Chapter%20-%2008%20-%20Let's%20get%20Classy/Coding/Assignment8.md)
+- 💻 [Coding Assignment Solution](./Chapter%20-%2008%20-%20Let's%20get%20Classy/Coding/)
